@@ -10,4 +10,7 @@ In pycharm software and written program, we put the image address in the image i
 
 Using the drop-down menu in the opened image, reach the desired mask in the image output and then press the ESC button.
 
-The output image is saved at the project site.
+The output image is saved at the project folder.
+
+import result pic in altium designer 
+
